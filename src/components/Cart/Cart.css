@@ -1,0 +1,17 @@
+.cart-widget {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cart-icon {
+    color: black;
+    font-size: 1.5em;
+}
+
+.cart-icon:hover {
+    color: #1D3557;
+}
+
+.cart-span {
+    color: white;
+    font-size: 1.2rem;
+}
